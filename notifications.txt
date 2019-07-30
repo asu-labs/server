@@ -1,2 +1,4 @@
+import os
+os.system("git pull")
 print("[+] move server at: Sun,July 2019")
-print("[+] Update Has New Module Spammers Menu")
+print("[+] Update Has New Module Spammers Menu > Spam ALL inbox list")
