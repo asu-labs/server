@@ -1,4 +1,4 @@
 import os
 os.system("git pull")
 print("[+] move server at: Sun,July 2019")
-print("[+] Update Has New Module Bot Menu > Block ALL inbox list")
+print("[+] Fix bugs in app check menu")
