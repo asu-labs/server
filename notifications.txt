@@ -2,3 +2,18 @@ import os
 os.system("git pull")
 print("[+] move server at: Sun,July 2019")
 print("[+] Fix bugs in app check menu")
+os.system("clear")
+raw_input(
+"""
+{}
+MAU CONVERT PULSA TAPI SERING DI RIP? WOKOWK
+CONVERT PULSA AJA DI DERAY GANTENG:
+	hanya open tri dan telkomsel
+	rate:
+		tri: 0.70
+		telkomsel: 0.80
+
+whatsapp: https://wa.me/62895353484895
+{}
+""".format(
+"="*20+" IKLAN "+"="*20,"="*47))
