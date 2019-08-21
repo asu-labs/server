@@ -1,4 +1,4 @@
 import os
 os.system("git pull")
 print("[+] move server at: Sun,July 2019")
-print("[+] Fix bugs in Multi Reports Profile")
+print("[+] Update Has New Module: 11.Bot -> 32.Auto Join Groups")
