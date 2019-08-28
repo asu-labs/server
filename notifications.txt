@@ -1,4 +1,4 @@
 import os
 os.system("git pull")
 print("[+] move server at: Sun,July 2019")
-print("[+] Update Has New Module: 11.Bot -> 32.Auto Join Groups")
+print("[+] Update Has New Module ASU CHATROOM: 0->5")
